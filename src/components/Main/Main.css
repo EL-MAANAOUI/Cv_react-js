@@ -1,0 +1,89 @@
+.menu{
+    max-width: 960px;
+    margin:auto;
+    float: left;
+    position: absolute;
+    right:812px;
+    width:300px;
+    height: 980px;
+    margin-top: 255px;
+    background-color:#bdc3c7;
+}
+.intro{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    font-family: cursive, sans-serif;
+}   
+.done{
+    height: 50px;
+    float:left;
+    margin-left:10px;
+}
+.skills{
+    font-size: 20px;
+    color:  #2c3e50;
+    margin-top: -40px;
+    margin-left: 36px;
+}
+.front{
+    
+    margin-top: 50px;
+    margin-right: 150px;
+    font-size: 16px;
+}
+.aa{
+    margin-top: -37px; 
+    text-align: justify;
+    margin-right: 15px;
+    position: absolute;
+    font-family: cursive;
+}
+.back{
+    
+    margin-top: 74px;
+    margin-right: 150px;
+    font-size: 16px;
+}
+.model{
+    margin-top: 110px;
+    /* margin-right: 150px; */
+    margin-left: 30px;
+    font-size: 16px;
+    width: inherit;
+    text-align: start;
+
+}
+.bb{
+    margin-top: -37px; 
+    text-align: justify;
+    margin-right: 120px;
+    position: absolute;
+    font-family: cursive;
+}
+.ff{
+    margin-top: -37px; 
+    text-align: start;
+    /* margin-right: 120px; */
+    /* position: absolute;
+    top:0px; */
+    font-family: cursive;
+}
+.lng{
+    height: 50px;
+    float:left;
+    margin-left:10px;
+    margin-top: 85px;
+}
+.langue{
+    font-size: 20px;
+    color:  #2c3e50;
+    margin-top: 105px;
+    margin-left: 36px;
+}
+.cc{
+    margin-top: 20px; 
+    text-align: justify;
+    font-family: cursive; 
+    margin-left: 50px; 
+}
